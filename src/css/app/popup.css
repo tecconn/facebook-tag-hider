@@ -1,3 +1,44 @@
-html, body {
-    width: 400px;
+body {
+    width: 200px;
+}
+
+button,
+.button {
+    background-color: transparent;
+    border: none;
+    line-height: 24px;
+    padding: 0.5em;
+    width: 100%;
+    cursor: pointer;
+    text-align: left;
+    display: inline-block;
+}
+
+div.wrapper {
+    display: -webkit-flex;
+    display: flex;
+}
+
+.check {
+    height: 24px;
+    width: 3em;
+    padding: 0.5em;
+    margin-right: 1em;
+    background: url("../../img/app/check-24.png") no-repeat 1em;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.x {
+    height: 24px;
+    width: 3em;
+    padding: 0.5em;
+    margin-right: 1em;
+    background: url("../../img/app/x-24.png") no-repeat 1em;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.click {
+    cursor: pointer;
 }
