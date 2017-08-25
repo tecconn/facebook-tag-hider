@@ -1,5 +1,7 @@
 body {
     width: 200px;
+    margin: 0;
+    padding: 0.25em;
 }
 
 button,
@@ -41,4 +43,9 @@ div.wrapper {
 
 .click {
     cursor: pointer;
+}
+
+.click:hover {
+    background-color: #dedede;
+    border-radius: 2px;
 }
