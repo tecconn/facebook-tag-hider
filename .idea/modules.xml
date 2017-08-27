@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/facebook-tag-hider.iml" filepath="$PROJECT_DIR$/facebook-tag-hider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/facebook-tag-hider.iml" filepath="$PROJECT_DIR$/.idea/facebook-tag-hider.iml" />
     </modules>
   </component>
 </project>

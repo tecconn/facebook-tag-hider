@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact build-on-make="true" name="facebook-tag-hider">
-    <output-path>$PROJECT_DIR$/out/artifacts/facebook-tag-hider</output-path>
-    <root id="root">
-      <element id="dir-copy" path="$PROJECT_DIR$/src" />
-    </root>
-  </artifact>
-</component>
